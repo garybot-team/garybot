@@ -1,8 +1,0 @@
-[package]
-name = "garybot"
-version = "0.1.0"
-edition = "2024"
-
-[dependencies]
-serenity = "0.12.0-rc2"
-tokio = { version = "1.21.2", features = ["macros", "rt-multi-thread"] }
